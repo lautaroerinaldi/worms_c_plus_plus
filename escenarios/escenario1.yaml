@@ -1,0 +1,86 @@
+municiones:
+  vida: 200
+  aereo: 2
+  banana: 5
+  bate: 9999
+  bazooka: 9999
+  dinamita: 5
+  roja: 10
+  verde: 9999
+  santa: 2
+  mortero: 10
+  teletransportacion: 9999
+viga:
+  x: 150
+  y: 250
+  angulo: 0
+  tamanio: 6
+viga:
+  x: 450
+  y: 250
+  angulo: 0
+  tamanio: 6
+viga:
+  x: 450
+  y: 550
+  angulo: 0
+  tamanio: 6
+viga:
+  x: 800
+  y: 550
+  angulo: 0
+  tamanio: 6
+viga:
+  x: 0
+  y: 650
+  angulo: 0
+  tamanio: 6
+viga:
+  x: 844
+  y: 164
+  angulo: 45
+  tamanio: 6
+viga:
+  x: 1075
+  y: 241
+  angulo: 60
+  tamanio: 6
+viga:
+  x: 1175
+  y: 491
+  angulo: 60
+  tamanio: 6
+viga:
+  x: 1144
+  y: 514
+  angulo: 135
+  tamanio: 6
+viga:
+  x: 1375
+  y: 491
+  angulo: 120
+  tamanio: 6
+gusano:
+  x: 700
+  y: 300
+gusano:
+  x: 250
+  y: 200
+gusano:
+  x: 450
+  y: 200
+gusano:
+  x: 450
+  y: 500
+gusano:
+  x: 150
+  y: 200
+gusano:
+  x: 50
+  y: 650
+gusano:
+  x: 50
+  y: 650
+gusano:
+  x: 850
+  y: 500
